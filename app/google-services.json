@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552752135841",
+    "project_id": "rent-hostel-finder",
+    "storage_bucket": "rent-hostel-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552752135841:android:a9fb34803397608ae8fae0",
+        "android_client_info": {
+          "package_name": "com.example.renthostelfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxXAeqXPkhKOJ3x8iMX7-aJwsC2ewa0rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
